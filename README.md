@@ -17,9 +17,9 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 el archivo donde se genera la pila de cloud formation se encuentra en ./lib/back-stack.ts
 
-para generar un archivo .yml apartir de este codigo se usa el comando:
+* para generar un archivo .yml apartir de este codigo se usa el comando:
 * `cdk synth`
-para hacer un deploy de la pila en cloud formation se usa
+* para hacer un deploy de la pila en cloud formation se usa
 * `cdk deploy` 
 
 
