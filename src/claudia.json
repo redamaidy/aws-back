@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "fun-executor",
+    "name": "fun",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "9yoqh2oat4"
+  }
+}

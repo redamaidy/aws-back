@@ -22,7 +22,20 @@
   },
   "dependencies": {
     "aws-cdk-lib": "2.50.0",
+    "aws-sdk": "^2.1265.0",
+    "aws-serverless-express": "^3.4.0",
+    "claudia-api-builder": "^4.1.2",
     "constructs": "^10.0.0",
-    "source-map-support": "^0.5.21"
-  }
+    "express": "^4.18.2",
+    "source-map-support": "^0.5.21",
+    "superb": "^4.0.0"
+  },
+  "description": "This is a blank project for CDK development with TypeScript.",
+  "main": "jest.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "edgar",
+  "license": "ISC"
 }
